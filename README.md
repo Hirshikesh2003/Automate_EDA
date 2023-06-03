@@ -1,4 +1,7 @@
 # automate_analysis
+
+The required libraries to be installed is mentioned in the __init__.py file, check it out.
+
 #Steps to follow
 
 First pip install the package as shown below;
