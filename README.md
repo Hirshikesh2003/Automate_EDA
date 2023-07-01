@@ -21,40 +21,39 @@ You'll get the visualizations;
 -----------------------------------------------------------------------------------------------
 
 # OUTPUT:
-1. It starts with the basic information of the dataset, includes the count of the non-null values, and the data type of the columns.
-2. Then it undergoes a simple cleaning process where the null values are replaced with '0'
-3. Now, we'll start to get the visualizations which includes bar chart and pie chart depending on the data. Following to each visualization, there will be a statistical description of the column.
+It starts with the basic information of the dataset, includes the count of the non-null values, and the data type of the columns.
+Then it undergoes a simple cleaning process where the null values are replaced with '0'
+Now, we'll start to get the visualizations which includes bar chart and pie chart depending on the data. Following to each visualization, there will be a statistical description of the column.
 
-4. # Pie Chart
-5. 
-6.  ![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/ac7da3e9-e49e-4dd0-9d45-6c305b1f0d21)
+# Pie Chart
+ 
+![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/ac7da3e9-e49e-4dd0-9d45-6c305b1f0d21)
 
-   # Baar chart
+# Bar chart
    
-6. ![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/ed4a3ad3-c2e6-435b-8ce3-5a27408d6cb8)
+![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/ed4a3ad3-c2e6-435b-8ce3-5a27408d6cb8)
 
-7. # A short description of each column along with the visualization
-8. 
-9. ![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/ffb55887-3c1c-4193-8555-56a3ff527ea7)
+# A short description of each column along with the visualization
+ 
+![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/ffb55887-3c1c-4193-8555-56a3ff527ea7)
 
-10.
-11. Now, it's time for correlation, starting with scatter plots, as per the user's need, they can select and plot the scatter plot, following with correlation matrix and Heatmap.
+Now, it's time for correlation, starting with scatter plots, as per the user's need, they can select and plot the scatter plot, following with correlation matrix and Heatmap.
 
-12. # Correlation matrix
+# Correlation matrix
 
-13. ![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/7093fde5-eadd-4fb1-b862-c7a6695a60f5)
+![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/7093fde5-eadd-4fb1-b862-c7a6695a60f5)
 
-14. # Heat map
+# Heat map
 
-15. ![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/59461c78-3c44-48f1-960c-4f9fbc8e1f69)
+![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/59461c78-3c44-48f1-960c-4f9fbc8e1f69)
 
-16. # Scatter plot
+# Scatter plot
 
-17. A user can plot scatter plot w.r.t to any column in the dataset, it has a dropdown option.
+A user can plot scatter plot w.r.t to any column in the dataset, it has a dropdown option.
 
-18. ![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/47c1b288-ca28-4e28-a103-0165f50f6c52)
+![image](https://github.com/Hirshikesh2003/Automate_EDA/assets/78225619/47c1b288-ca28-4e28-a103-0165f50f6c52)
 
-19. 
+ 
 
 
 
